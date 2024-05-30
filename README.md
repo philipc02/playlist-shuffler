@@ -11,7 +11,7 @@ This is a Flask application that allows users to create a shuffled playlist from
 
 2. **Install Dependencies**
     ```sh
-    
+    -
     ```
 
 3. **Create a .env File**
